@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  column-gap: 5%;
+  justify-content: center;
+  align-items: center;
+}
+nav a {
+  font-size: 20px;
+  color: blue;
+}
+nav a.active {
+  text-decoration: none;
+  font-weight: bolder;
+  color: black;
+}
+
+h1 {
+  margin-top: 50px;
+  text-align: center;
+}
+
+* {
+  text-align: center;
+}
